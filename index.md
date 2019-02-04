@@ -47,6 +47,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
+<h4>This workshop has been organised for the Regenerative Medicine CDT, and is not open to other applicants.</h4>
 
 <h2 id="general">General Information</h2>
 
